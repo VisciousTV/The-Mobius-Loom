@@ -35,8 +35,8 @@ Second rule: every contribution must **uplift** the level above it.
 ## License (pick one)
 Docs:
 - **CC-BY 4.0** (free to remix; requires attribution) — best match for “give it away + please credit”
-- **CC0** (public domain) — most permissive
 
-Code (if you add code later):
-- MIT or Apache-2.0
+
+Code:
+- MIT
 
