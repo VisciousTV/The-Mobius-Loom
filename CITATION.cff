@@ -1,0 +1,18 @@
+
+---
+
+## `CITATION.cff`
+
+```yaml
+cff-version: 1.2.0
+message: "If you use Mobius Loom materials, please cite the author."
+title: "Mobius Loom"
+authors:
+  - family-names: Eid
+    given-names: Michael Nathaniel
+version: 1.0.0
+date-released: 2026-01-30
+license: "CC-BY-4.0"
+contact:
+  - name: Michael Nathaniel Eid
+    email: airmaneid@gmail.com
