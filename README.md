@@ -34,9 +34,6 @@ Second rule: every contribution must **uplift** the level above it.
 
 ## License (pick one)
 Docs:
-- **CC-BY 4.0** (free to remix; requires attribution) — best match for “give it away + please credit”
-
-
-Code:
+- **CC-BY 4.0** (free to remix; requires attribution) 
 - MIT
 
