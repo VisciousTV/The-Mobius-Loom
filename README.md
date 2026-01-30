@@ -1,5 +1,3 @@
-# Mobius Loom
-
 **Author:** Michael Nathaniel Eid  
 **Status:** Public proposal — free to use, remix, and build upon  
 **Attribution (requested):** Please credit the author when redistributing these documents.
@@ -12,6 +10,17 @@ Mobius Loom is a **human + AI collaborative intelligence system** designed to ro
 
 Core rule: every solved trace outputs **Particle + Wave**.  
 Second rule: every contribution must **uplift** the level above it.
+
+
+## I want to help build this
+I’m actively looking to **work with anyone** (labs, startups, researchers, open-source builders) who wants to make Mobius Loom real.
+
+If you’re interested in collaborating, please:
+- open an issue titled **“Collaboration / Partner”** with your background + what you want to build, or
+- reach out via a GitHub Discussion (if enabled), or
+- contact me through the method listed in this repo (add your preferred contact in the next section).
+
+**What I contribute best:** concept synthesis, product vision, protocol design, and iterating the Loom ideology into practical workflows.
 
 ## What to read first
 1) `mobius_loom_ultimate_packet_v1_authored.md` — the full “ultimate packet” overview  
@@ -34,6 +43,10 @@ Second rule: every contribution must **uplift** the level above it.
 
 ## License (pick one)
 Docs:
-- **CC-BY 4.0** (free to remix; requires attribution) 
+- **CC-BY 4.0** (free to remix; requires attribution) — best match for “give it away + please credit”
+
+Code:
 - MIT
 
+## Contact
+Email: airmaneid@gmail.com X: @VisciousTV, Discord: viscioustv
